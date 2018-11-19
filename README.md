@@ -1,12 +1,14 @@
 Professional Portfolio Website
 -------------------------------------------------------------------
 This is the code for my professional portfolio website, from an altered free online website template.
+
 -------------------------------------------------------------------
 
 
 Motivation
 -------------------------------------------------------------------
 I wanted to have a one-stop-shop to showcase my current and past programming/computer science projects, coursework, and abilities.
+
 -------------------------------------------------------------------
 
 
