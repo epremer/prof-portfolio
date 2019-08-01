@@ -112,7 +112,7 @@ b.max-bold{ font-weight: 700; }
 
 header{ position: absolute; top: 30px; left: 0; right: 0; z-index: 100; }
 
-header .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; background: #FFAD01; color: #fff; }
+header .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; background: #258DA9; color: #fff; }
 
 header .info{ margin-bottom: 10px; }
 
@@ -121,7 +121,7 @@ header .info .icon{ float: left; font-size: 30px; }
 header .info .right-area{ margin-left: 45px; }
 
 header .download-btn{ padding: 15px 30px; border-radius: 4px; float: right; margin-top: 30px;
-	box-shadow: inset 0 0px 4px rgba(0,0,0,.3); background: #FFAD01; color: #fff; 
+	box-shadow: inset 0 0px 4px rgba(0,0,0,.3); background: #258DA9; color: #fff; 
 	-webkit-transition: all .2s ease; transition: all .2s ease; }
 
 header .download-btn:hover{ -webkit-transform: translateY(-4px); transform: translateY(-4px); }
@@ -151,7 +151,7 @@ header .download-btn:hover{ -webkit-transform: translateY(-4px); transform: tran
 	overflow: hidden; z-index: 1; position: relative; margin: 0 5px 5px; background: #887392; color: #fff; }
 
 .intro .social-icons > li > a:after{ content: ''; position: absolute; bottom: 0; left: 0; right: 0;
-	top: 0; z-index: -1; border-radius: 20px; background: #FFA804; 
+	top: 0; z-index: -1; border-radius: 20px; background: #258DA9; 
 	-webkit-transition: all .2s ease; transition: all .2s ease;
 	-webkit-transform: scale(0); transform: scale(0); }
 
@@ -166,13 +166,13 @@ header .download-btn:hover{ -webkit-transform: translateY(-4px); transform: tran
 
 .btn{ margin: 0 10px 10px; padding: 12px 30px; border-radius: 5px; }
 
-.btn-bg-yellow{ border: 1px solid #FFAD01; background: #FFAD01; color: #fff; }
+.btn-bg-yellow{ border: 1px solid #258DA9; background: #258DA9; color: #fff; }
 
 .btn-bg-purple{ border: 1px solid #28023D; background: #28023D; color: #fff; }
 
 .btn-border-purple{ border: 1px solid #28023D; color: #222; }
 
-.btn-color-yellow{ border: 1px solid #28023D; background: #28023D; color: #FFAD01; }
+.btn-color-yellow{ border: 1px solid #28023D; background: #28023D; color: #258DA9; }
 
 
 .btn-bg-yellow:hover{ background: none; color: #111; }
@@ -202,7 +202,7 @@ header .download-btn:hover{ -webkit-transform: translateY(-4px); transform: tran
 /* ACCORDIANS */
 
 .panel-area .panel-title{ padding: 10px 20px; cursor: pointer; position: relative; color: #fff;
-	border-radius: 3px; background: #FFAD01; color: #fff; }
+	border-radius: 3px; background: #258DA9; color: #fff; }
 
 .panel-area .panel-desc{ max-height: 0; overflow: hidden; opacity: 0;
 	-webkit-transition: all .05s, opacity .25s .1s, -webkit-transform .1s; 
