@@ -103,7 +103,7 @@ b.max-bold{ font-weight: 700; }
 .margin-tb-30{ margin-top: 30px; margin-bottom: 30px; }
 .margin-tb-50{ margin-top: 50px; margin-bottom: 50px; }
 
-.font-yellow{ color: #FFA600; }
+.font-yellow{ color: #333; }
 
 .font-semi-white{ color: #ddd; }
 
@@ -295,5 +295,5 @@ b.max-bold{ font-weight: 700; }
 10. FOOTER
 --------------------------------- */
 
-.copyright{ text-align: center; padding: 30px 0; background: #28023D; }
+.copyright{ text-align: center; padding: 30px 0; background: #9BC9D5; }
 
