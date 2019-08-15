@@ -126,18 +126,20 @@ require('constant.php');
 		integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
 	<!-- Stylesheets - MedigoBlue -->
-	<link rel="stylesheet" href="../bootstrap/bootstrap.css">
-	<link rel="stylesheet" href="../css/misc.css">
-	<link rel="stylesheet" href="../css/blue-scheme.css">
+	<link rel="stylesheet" href="../assets/bootstrap/bootstrap.css">
+	<link rel="stylesheet" href="../assets/css/misc.css">
+	<link rel="stylesheet" href="../assets/css/blue-scheme.css">
 
 	<!-- JavaScripts MedigoBlue -->
-	<script src="../js/jquery-1.10.2.min.js"></script>
-	<script src="../js/jquery-migrate-1.2.1.min.js"></script>
+	<script src="../assets/js/jquery-1.10.2.min.js"></script>
+	<script src="../assets/js/jquery-migrate-1.2.1.min.js"></script>
 
-	<link rel="shortcut icon" href="../images/logos/PE_logo.JPG" type="image/x-icon" />
+	<link rel="shortcut icon" href="../assets/images/logos/PE_logo.JPG" type="image/x-icon" />
 
 
 
+
+	<section class="under-construction">Please be advised that this website is currently under construction and may have a few bugs that will be fixed soon. Thank you!</section>
 
 
 	<div class="container">
@@ -203,7 +205,7 @@ require('constant.php');
 			<div class="row">
 				<div class="col-md-12">
 					<p class="copyright-text">Copyright &copy; 2019 Lizz Premer
-						| Design:  | Development: Lizz Premer</p>
+						| Development: Lizz Premer</p>
 				</div> <!-- /.col-md-12 -->
 			</div> <!-- /.row -->
 		</div> <!-- /.container -->
@@ -213,8 +215,8 @@ require('constant.php');
 	<!-- END - SITE FOOTER -->
 
 	<!-- Scripts -->
-	<script src="../js/min/plugins.min.js"></script>
-	<script src="../js/min/medigo-custom.min.js"></script>
+	<script src="../assets/js/min/plugins.min.js"></script>
+	<script src="../assets/js/min/medigo-custom.min.js"></script>
 	<script>
         function initialize() {
           var mapOptions = {
